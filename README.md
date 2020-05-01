@@ -1,10 +1,12 @@
-﻿# [CC2530](https://github.com/sochub/CC2530)
+﻿# [CC2530](https://github.com/SoCXin/CC2530)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
 
-#### 归属：[8051](https://github.com/sochub/MCS-51)
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[TI](https://github.com/SoCXin/TI) 
+#### [Core](https://github.com/SoCXin/8051) ：[E8051](https://github.com/SoCXin/8051) 
+#### [Level](https://github.com/SoCXin/Level) ：16MHz
 
-## [描述](https://github.com/sochub/CC2530/wiki) 
+## [CC2530描述](https://github.com/SoCXin/CC2530/wiki) 
 
 [CC2530](http://www.ti.com.cn/product/cn/CC2530) is a SoC solution for IEEE 802.15.4, Zigbee and RF4CE applications. 
 
@@ -21,18 +23,21 @@ Combined with the industry-leading and golden-unit-status ZigBee protocol stack 
 - Power Mode 3 (External Interrupts): 0.4 µA
 - Wide Supply-Voltage Range (2 V–3.6 V)
 
-## [组成](SoC/) 
+### [资源收录](https://github.com/SoCXin)
 
-#### [文档资料](docs/)
+* [文档](docs/)
+* [资源](src/)
 
-参考设计和数据手册
+### [关联资源](https://github.com/SoCXin)
 
-#### [项目文件](project/)
+* [IAR 8051](https://www.iar.com/iar-embedded-workbench/#!?architecture=8051) 
 
-包括各种开发资源和工程
+### [开源项目](https://github.com/SoCXin)
 
----
 
-###  [SoC开发平台](http://www.qitas.cn)   
 
-###  qitas@qitas.cn
+### [选型建议](https://github.com/SoCXin)
+
+[CC2530](https://github.com/SoCXin/CC2530)
+
+###  [SoC芯平台](http://SoC.Xin) 
